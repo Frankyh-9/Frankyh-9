@@ -4,7 +4,7 @@ I'm Franky, 19 years old from Indonesia.
 
 💞️ Currently, I'm an informatics undergraduate student at Universitas Pelita Harapan Medan Campus <br>
 👀 I’m interested in programming such as web, mobile, etc<br>
-🔭 I’m currently working on simple game development using C++ with OpenGL<br>
+🔭 I’m currently working on improving an online ticketing website "eticuphm.com"<br>
 📫 You can reach me via email : frankyhuang20@gmail.com<br>
 
 <!--
